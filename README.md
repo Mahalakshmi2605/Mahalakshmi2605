@@ -47,9 +47,6 @@ I’ve been actively building my Data Science skillset by working on end-to-end 
 * **Sales Data Analysis**
   Identified trends and key drivers influencing revenue and customer behavior.
 
-* **Customer Churn Prediction (in progress)**
-  Exploring classification models to predict customer retention.
-
 ---
 
 ### What I’m improving right now
