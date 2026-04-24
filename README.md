@@ -1,78 +1,66 @@
 Hi, I’m Sri Mahalakshmi Pokuri
 
-I bring 4 years of experience as a Software Developer working on Infor ERP solutions, where I’ve spent a significant part of my time working with data — handling tables, building logic using sessions and libraries, and solving real-time production issues for clients like Godrej and NCC Limited.
+I have around 4 years of experience working as a Software Developer on Infor ERP solutions, where I’ve worked closely with structured data, business workflows, and real-time production systems for clients like Godrej and NCC Limited.
 
-Over time, this exposure naturally led me toward Data Science, where I can go beyond handling data to actually extracting insights and building predictive solutions.
-
----
-
-### What I work with
-
-* Python (Pandas, NumPy, Scikit-learn)
-* SQL & Data Handling (ERP-based data systems)
-* Data Analysis & Visualization (Matplotlib, Seaborn)
-* Machine Learning (Regression, Classification, Model Evaluation)
+A large part of my work involves understanding data at a system level — working with tables, sessions, and resolving real-time issues that directly impact business operations. This exposure naturally led me to explore Data Science, where I can go beyond handling data and start generating insights and predictions from it.
 
 ---
 
-### My background in practice
+### What I bring
 
-In my current role, I:
-
-* Work extensively with structured data in ERP systems
-* Debug and resolve real-time issues impacting business operations
-* Understand how data flows across systems and affects decisions
-* Collaborate with teams to ensure data consistency and reliability
-
-This experience has shaped how I approach problems — with a focus on accuracy, context, and real-world impact.
+* Strong experience working with real-world business data (ERP systems)
+* Practical understanding of how data flows across applications
+* Experience debugging and solving data-related issues in production environments
+* Growing expertise in Data Science and Machine Learning
 
 ---
 
-### Transition into Data Science
+### Current focus
 
-I’ve been actively building my Data Science skillset by working on end-to-end projects, focusing on:
+I’m actively building my Data Science skillset with a focus on:
 
-* Data cleaning and preprocessing
-* Exploratory data analysis
-* Model building and evaluation
-* Communicating insights clearly
+* Data cleaning and exploratory analysis
+* Feature engineering and model building
+* Understanding the business impact behind models
+* Writing clear and interpretable insights
 
 ---
 
 ### Selected Work
 
 * **House Price Prediction**
-  Built regression models and improved performance through feature engineering.
+  Built regression models and explored key factors affecting housing prices, focusing on improving model performance through feature engineering.
 
 * **Sales Data Analysis**
-  Identified trends and key drivers influencing revenue and customer behavior.
+  Analyzed customer and revenue trends to identify patterns that can support business decisions.
+
+* **Customer Churn Prediction (in progress)**
+  Working on identifying drivers of customer churn using classification models.
 
 ---
 
-### What I’m improving right now
+### How I approach problems
 
-* Feature engineering and model tuning
-* Writing cleaner, production-ready code
-* Applying machine learning to real business problems
+Coming from a production background, I focus on:
+
+* Understanding the problem before jumping into modeling
+* Ensuring data quality and reliability
+* Building solutions that are practical and explainable
+* Thinking in terms of business impact rather than just metrics
 
 ---
 
 ### What I’m looking for
 
-I’m open to **remote Data Scientist opportunities globally** (full-time or contract).
-
-I’m particularly interested in roles where:
-
-* Data is closely tied to business decisions
-* Problem-solving matters more than just model accuracy
-* There’s an opportunity to grow into a strong Data Scientist
+I’m open to remote Data Scientist opportunities globally (full-time or contract), where I can apply my experience working with real data and continue growing into a strong Data Scientist.
 
 ---
 
-### Quick note
+### A quick note
 
-Coming from a production environment, I value reliability, clarity, and practical solutions. I prefer building things that work in real scenarios rather than just focusing on theoretical models.
+I don’t see Data Science as just building models — for me, it’s about solving real problems using data. My goal is to bridge the gap between systems, data, and decision-making.
 
-“Available for freelance and contract-based data projects”
+Available for freelance and contract-based data projects
 
 If you’re looking for someone who understands both systems and data — I’d be happy to connect.
+
